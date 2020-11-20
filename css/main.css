@@ -92,8 +92,9 @@ body.fade-out {
 
 
 #Tech_Video {
+    width: 100%;
     position: fixed; /* This fixes our video to the page */
-    right: 0; /* This ensures no space between the edge of the video and the edge of the page */
+    left: 0; /* This ensures no space between the edge of the video and the edge of the page */
     bottom: 0; /* This ensures no space between the edge of the video and the edge of the page */
     min-height: 50%; /* This ensures the video is displayed across the full height of the page */
     top: 0;
